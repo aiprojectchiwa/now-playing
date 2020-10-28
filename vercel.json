@@ -1,0 +1,6 @@
+{
+  "name": "npaas",
+  "version": 1,
+  "alias": "npaas",
+  "regions": ["cdg1"]
+}
