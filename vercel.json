@@ -1,6 +1,6 @@
 {
   "name": "npaas",
   "version": 2,
-  "alias": "npaas",
+  "alias": "now-playing-ruby",
   "regions": ["cdg1"]
 }
