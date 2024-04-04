@@ -2,4 +2,4 @@
 
 spotify now playing widget for my readmes !
 
-[![spotify](https://npaas.vercel.app/api/spotify)]([https://open.spotify.com/user/neko250](https://open.spotify.com/user/31lufwsrl73brqnxtkoa2icyegau))
+[![spotify](https://npaas.vercel.app/api/spotify)]((https://open.spotify.com/user/31lufwsrl73brqnxtkoa2icyegau))
